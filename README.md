@@ -2,7 +2,7 @@
 
 **Student:** Kapinga Dimbu  
 **Module:** Intelligent Agents  
-**Programme:** MSc Artificial Intelligence
+**Programme:** MSc Artificial Intelligence University of Essex Online
 
 ## Welcome
 
