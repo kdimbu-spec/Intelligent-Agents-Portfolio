@@ -4,11 +4,11 @@ This section documents my participation in collaborative learning activities, di
 
 ---
 
-## Unit 1
+## Unit 1 - 3 
 
 ### Discussion Topic
 
-[Insert discussion topic.]
+Collaborative Discussion 1: Agent Based Systems 
 
 ### My Contribution
 
