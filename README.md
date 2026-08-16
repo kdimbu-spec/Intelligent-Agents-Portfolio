@@ -1,11 +1,8 @@
 # Intelligent Agents E-Portfolio
 
 **Student:** Kapinga Dimbu  
-**Student Number:** XXXXXXX  
 **Module:** Intelligent Agents  
 **Programme:** MSc Artificial Intelligence
-
----
 
 ## Welcome
 
@@ -14,8 +11,6 @@ Welcome to my Intelligent Agents e-portfolio.
 This portfolio documents my learning, development and critical reflection throughout the Intelligent Agents module. It provides evidence of my engagement with learning activities, discussions, practical exercises, agent architectures, logical reasoning, collaborative activities and the final project.
 
 The portfolio will be progressively updated throughout the twelve learning units.
-
----
 
 ## Learning Units
 
@@ -34,7 +29,6 @@ The portfolio will be progressively updated throughout the twelve learning units
 | 11 | Coming soon | Unit 11 |
 | 12 | Coming soon | Unit 12 |
 
----
 
 ## Portfolio Sections
 
@@ -45,15 +39,12 @@ The portfolio will be progressively updated throughout the twelve learning units
 - [Final Project](final-project/design.md)
 - [Evidence](evidence/)
 
----
 
 ## Purpose of the Portfolio
 
 The purpose of this portfolio is to demonstrate my progression in understanding and applying intelligent-agent concepts. It combines theoretical learning with practical activities, critical reflection and evidence of participation.
 
 The portfolio will also serve as a repository of evidence for the final module assessment.
-
----
 
 ## Evidence
 
@@ -69,7 +60,6 @@ Evidence included in this portfolio may include:
 - Practical exercises
 - Reflective commentary
 
----
 
 ## Final Reflection
 
