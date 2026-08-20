@@ -45,7 +45,7 @@ The Unit 2 seminar provided an opportunity to work through FOL examples and disc
 
 ### Key Takeaway
 
-> **First-Order Logic provides a formal foundation for representing knowledge and reasoning about relationships, while LLMs provide powerful natural-language capabilities. Understanding the difference between these approaches is important when designing reliable intelligent agents.**
+First-Order Logic provides a formal foundation for representing knowledge and reasoning about relationships, while LLMs provide powerful natural-language capabilities. Understanding the difference between these approaches is important when designing reliable intelligent agents.
 
 ### Evidence
 
