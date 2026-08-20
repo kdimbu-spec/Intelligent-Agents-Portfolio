@@ -47,7 +47,8 @@ Therefore, the architecture should be driven by **functional requirements and ev
 
 ## Key Takeaway
 
-> **Effective agent design requires selecting an architecture that matches the problem. There is no universally superior architecture; the appropriate choice depends on the task, environment, reasoning requirements and desired level of autonomy.**
+> **Effective agent design requires selecting an architecture that matches the problem.
+> There is no universally superior architecture; the appropriate choice depends on the task, environment, reasoning requirements and desired level of autonomy.**
 
 This principle is particularly relevant to my academic research agent project, where architectural complexity must be balanced against **research quality, reliability, efficiency and controllability**.
 
