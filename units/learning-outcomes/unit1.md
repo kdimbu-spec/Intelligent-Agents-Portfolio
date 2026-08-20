@@ -1,66 +1,76 @@
 # Unit 1: Introduction to Agent-Based Computing
 
-## Learning Summary
+## Overview
 
-This unit introduced the fundamental principles of agent-based computing and the role of intelligent agents in modern computing systems.
+Unit 1 introduced the foundations of **agent-based computing**, including intelligent agents, autonomy, interaction, decision-making and multi-agent systems. I developed an understanding of how agents can perceive information, make decisions and perform actions to achieve defined objectives (Wooldridge, 2009; Russell and Norvig, 2021).
 
-The unit explored the concept of an agent as an autonomous computational entity capable of perceiving its environment, making decisions and taking actions to achieve particular objectives.
+The unit also introduced the growing role of **Large Language Models (LLMs)** in agent-based systems, particularly their ability to support planning, reasoning, task decomposition and information gathering.
 
-## Key Concepts
+## Key Learning
 
-The main concepts covered in this unit include:
+A key learning point was that agent-based systems provide an alternative to purely predefined software by enabling greater autonomy and adaptability. However, autonomy also introduces challenges such as unreliable decision-making, coordination difficulties and error propagation.
 
-- Agents
-- Autonomy
-- Intelligent systems
-- Environment interaction
-- Agent-based computing
-- Multi-agent systems
+This became particularly relevant to my group project, which focused on an **LLM-powered academic research agent**.
 
-## Activities Completed
+## My Contribution to the Group Assignment
 
-The learning activities undertaken during this unit included:
+My main contribution to the group assignment focused on three areas:
 
-- Review of the unit learning materials
-- Participation in learning discussions
-- Completion of learning activities
-- Reflection on the development of agent-based computing
+### 1. Challenges and Mitigation
+
+I investigated the potential challenges associated with developing an LLM-powered academic research agent, including:
+
+* LLM hallucinations and inaccurate information.
+* Difficulty verifying generated information.
+* Poor task decomposition.
+* Context and memory limitations.
+* Coordination overhead in multi-agent systems.
+* Error propagation between agents.
+* Increased latency and computational cost.
+* Potential bias in retrieved  information.
+
+I considered mitigation strategies such as **source verification, structured task decomposition, validation mechanisms, human oversight, controlled agent communication and appropriate role allocation**.
+
+### 2. Rationale for the Architecture
+
+I contributed to explaining why an agent-based architecture was appropriate for academic research. Academic research involves multiple related activities, including question decomposition, literature searching, source evaluation, summarisation and ranking.
+
+A modular architecture allows these activities to be separated into specialised functions while enabling the system to coordinate them towards a common research objective.
+
+The architectural rationale was therefore based on **modularity, task specialisation, scalability and separation of responsibilities**, rather than simply increasing the number of agents.
+
+### 3. Critical Evaluation of the LLM-Powered Agent
+
+I critically evaluated whether using an LLM-powered multi-agent architecture would actually improve the research process.
+
+An important conclusion was that **more agents do not necessarily produce better results**. Additional agents can introduce communication overhead, latency, cost and new opportunities for errors. Agents using similar LLMs may also share biases or hallucinations.
+
+Therefore, the proposed architecture should use multiple agents only where specialisation provides a clear benefit. Reliability should be prioritised through verification, source evaluation and human oversight.
 
 ## Reflection
 
-### What?
+This contribution helped me move beyond describing an AI system towards **critically evaluating its design choices and limitations**. I learned that a successful agent-based system must balance autonomy with reliability, efficiency and human control.
 
-I learned that an intelligent agent is fundamentally different from a conventional software component because it can operate with a degree of autonomy and interact with its environment in pursuit of defined objectives.
+The experience also strengthened my understanding of how theoretical concepts from agent-based computing can be applied to a practical LLM-powered system.
 
-The unit also helped me understand the broader development of agent-based computing and why agent-oriented approaches have become increasingly relevant to complex computing environments.
+## Key Takeaway
 
-### So What?
-
-This learning changed my understanding of software systems because it highlighted that intelligent systems are not simply programs that execute predefined instructions. Instead, agents can perceive changing environments, make decisions and respond to those environments.
-
-This perspective is particularly important when considering modern applications involving distributed systems, autonomous decision-making and artificial intelligence.
-
-### Now What?
-
-I will apply the concepts introduced in this unit when analysing different agent architectures and intelligent systems throughout the remainder of the module.
-
-I will also consider how autonomy, perception, reasoning and action contribute to the design of effective intelligent agents.
-
-## Critical Insight
-
-One important insight from this unit is that the effectiveness of an intelligent agent depends not only on its ability to make decisions, but also on how effectively it interacts with its environment.
-
-This provides a foundation for understanding more sophisticated agent architectures and multi-agent systems.
+> **The effectiveness of an LLM-powered research agent depends not simply on the number of agents or the sophistication of the LLM, but on appropriate architecture, task allocation, verification, mitigation of risks and effective human oversight.**
 
 ## Evidence
 
-Evidence from this unit will be added below.
-
-- Unit learning materials
-- Discussion contribution
-- Learning activity screenshots
-- Seminar activities
+* Group assignment contribution
+* Architecture rationale
+* Challenges and mitigation analysis
+* Critical evaluation of the LLM-powered agent
+* Literature research and references
+* Group discussion and collaboration
+* Final group design proposal
 
 ## References
 
+Huang, X. *et al.* (2024) *Understanding the Planning of LLM Agents: A Survey*. arXiv.
+
 Russell, S. and Norvig, P. (2021) *Artificial Intelligence: A Modern Approach*. 4th edn. Harlow: Pearson.
+
+Wooldridge, M. (2009) *An Introduction to MultiAgent Systems*. 2nd edn. Chichester: Wiley.
