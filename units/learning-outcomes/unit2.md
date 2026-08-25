@@ -1,62 +1,32 @@
-### Unit 2: Introducing First-Order Logic
+### Week 2 Portfolio Update: Introducing First-Order Logic
 
-**Overview**
+This week built on the foundations of intelligent agents introduced in Unit 1 by exploring First-Order Logic (FOL) as a formal approach to knowledge representation and reasoning. The unit focused on the key symbols and components of FOL, the relationship between natural language and logical expressions, and the use of quantifiers to represent groups of objects and general rules. Understanding FOL provides an important theoretical foundation for many AI concepts explored later in the module.
 
-Unit 2 built on the foundations of intelligent agents introduced in Unit 1 by introducing **First-Order Logic (FOL)** as a formal approach to knowledge representation and reasoning. The unit focused on the key terms and symbols of FOL, its relationship with natural language, and the use of quantifiers.
+## Evidence of Learning
 
-### Key Learning
+Through the lecture materials, seminar preparation, collaborative discussions, and Chapter 8 of Russell and Norvig (2021), I learned about constants, variables, predicates, functions, logical connectives, and quantifiers. A key insight was understanding why propositional logic is not expressive enough for representing complex knowledge. For example, the rule:
 
-Through the lecture materials, seminar preparation and **Chapter 8 of Russell and Norvig (2021)**, I developed an understanding of:
+∀x (Student(x) → SubmitsAssignment(x))
 
-* Constants, variables, predicates and functions.
-* Logical connectives and well-formed expressions.
-* Universal (∀) and existential (∃) quantifiers.
-* Translating natural-language statements into logical representations.
-* Using FOL to represent relationships between objects.
-* Reasoning from facts and rules to derive conclusions.
+represents all students with a single statement, demonstrating how FOL can model relationships and general knowledge more efficiently than propositional logic. I also explored how facts, rules, and inference combine to form knowledge bases that enable intelligent decision-making.
 
-For example:
+## Critical Analysis
 
-> **"All researchers use academic sources."**
+This unit highlighted the difference between structured logical reasoning and natural-language reasoning. While modern LLMs can generate fluent responses, FOL provides transparent and explainable reasoning because relationships and rules are explicitly defined. However, FOL can be computationally expensive and is less effective when dealing with uncertain or incomplete information. This suggests that future intelligent systems may benefit from combining logical reasoning with LLM capabilities.
 
-can be represented as:
+## Reflection (Rolfe et al., 2001)
 
-**∀x (Researcher(x) → UsesAcademicSource(x))**
+## What?
+ I learned how FOL represents knowledge, supports reasoning, and enables inference within intelligent systems.
 
-This demonstrated how natural-language knowledge can be represented in a precise form that an intelligent system can reason over.
+## So What?
+ This improved my understanding of how agents can derive conclusions from facts and rules rather than simply processing information.
 
-### Reflection
+## Now What?
+ I will apply this knowledge when evaluating intelligent agent designs, particularly by considering how formal reasoning can improve the reliability of LLM-based systems.
 
-The unit helped me understand that intelligent agents require mechanisms for **knowledge representation and reasoning**, not simply the ability to generate or process information.
+Evidence: Lecture Cast, Chapter 8 reading, worked FOL examples, seminar participation, collaborative discussions, and e-portfolio reflection.
 
-The distinction between natural-language reasoning and formal logical reasoning was particularly relevant to my understanding of LLM-powered agents. LLMs can produce fluent and convincing responses, but this does not guarantee logical consistency or factual accuracy. FOL provides a useful contrast because knowledge and relationships are explicitly represented and can be evaluated through formal inference.
+## Reference
 
-### Connection to My Group Project
-
-This learning strengthened my critical evaluation of the **LLM-powered academic research agent** developed as part of the group assignment.
-
-My contribution focused on **challenges and mitigation, architectural rationale, and critical evaluation**. Unit 2 highlighted another important consideration: an LLM-based research agent may benefit from structured representations or rule-based validation alongside natural-language generation.
-
-For example, logical rules could potentially be used to validate relationships between research papers, authors, topics or citations. This could complement the LLM's ability to interpret and summarise unstructured academic information.
-
-### Seminar & Collaborative Learning
-
-The Unit 2 seminar provided an opportunity to work through FOL examples and discuss how logical expressions represent knowledge. Continuing the collaborative discussion also helped me compare my understanding with those of other students and consider different approaches to representing and reasoning about information.
-
-### Key Takeaway
-
-First-Order Logic provides a formal foundation for representing knowledge and reasoning about relationships, while LLMs provide powerful natural-language capabilities. Understanding the difference between these approaches is important when designing reliable intelligent agents.
-
-### Evidence
-
-* Unit 2 Lecture Cast
-* Russell and Norvig (2021), Chapter 8
-* First-Order Logic seminar preparation
-* Worked FOL examples
-* Seminar participation
-* Collaborative Discussion
-* e-Portfolio reflection
-
-### Reference
-
-Russell, S. and Norvig, P. (2021) *Artificial Intelligence: A Modern Approach*. 4th edn. Harlow: Pearson Education. Chapter 8. 
+Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson Education. Chapter 8.
