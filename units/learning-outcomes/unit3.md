@@ -1,4 +1,4 @@
-# Week 3 Portfolio Update: Agent Architectures
+# Week 3 Agent Architectures
 
 This week focused on the development, evolution, and selection of agent architectures. The unit explored how different architectures influence agent behaviour and decision-making, including symbolic reasoning, state-based, and reactive approaches. A key theme was that there is no single architecture suitable for every intelligent system; the choice depends on the problem, environment, goals, and level of autonomy required.
 
