@@ -11,16 +11,3 @@ I also explored performatives such as ask, tell, and request, which enable agent
 ## Critical Analysis
 
 Comparing ACLs with Python and Java method invocation highlighted an important trade-off. Traditional method calls are generally faster and simpler to implement, but they assume tightly coupled components and shared execution environments. ACLs offer greater flexibility and scalability but introduce communication overhead, semantic interoperability challenges, and increased system complexity. Therefore, the choice between these approaches should depend on the system requirements rather than assuming one is universally superior.
-
-## Reflection (Rolfe et al., 2001)
-
-## What?
- I analysed the advantages of ACLs and compared them with conventional programming communication mechanisms.
-
-## So What?
- This improved my understanding of how communication enables coordination within autonomous multi-agent systems.
-
-## Now What?
- For the proposed LLM-powered academic research system, I will explore how ACL-style communication and shared ontologies can support reliable collaboration between specialised agents.
-
-Evidence: Initial discussion post, ACL versus method invocation comparison, collaborative discussion participation, ontology analysis, group project application, and e-portfolio reflection.
