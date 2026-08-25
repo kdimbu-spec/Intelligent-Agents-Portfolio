@@ -1,6 +1,6 @@
 # Reflective Journal
 
-## Unit 1 Reflection
+## Unit 1 Introduction to Agent-Based Computing 
 
 ## Reflection (Rolfe et al., 2001)
 ## What?
@@ -11,7 +11,7 @@ This helped me understand that autonomy must be balanced with reliability, trans
 In future projects, I will critically evaluate architectural decisions by considering both the advantages and risks of autonomy before selecting an agent-based solution.
 
 
-## Unit 2 Reflection
+## Unit 2 Introducing First-Order Logic
 ## What?
  I learned how FOL represents knowledge, supports reasoning, and enables inference within intelligent systems.
 
@@ -23,7 +23,7 @@ In future projects, I will critically evaluate architectural decisions by consid
 
 Evidence: Lecture Cast, Chapter 8 reading, worked FOL examples, seminar participation, collaborative discussions, and e-portfolio reflection.
 
-## Unit 3 Reflection
+## Unit 3 Agent Architecture
 ### What?
  I studied different agent architectures and examined how they influence intelligent behaviour.
 
@@ -35,7 +35,7 @@ Evidence: Lecture Cast, Chapter 8 reading, worked FOL examples, seminar particip
 
 Evidence: Lecture Cast, collaborative discussion, seminar participation, architecture evaluation exercises, group project analysis, and e-portfolio reflection.
  
-## Unit 4 Reflection
+## Unit 4 Hybrid Agent Architecture
 ## What?
 I analysed hybrid architectures and their application to an autonomous warehouse robot.
 ## So What?
@@ -43,7 +43,7 @@ This improved my understanding of how architecture choice affects system perform
 ## Now What?
 In future projects, I will evaluate environmental uncertainty, response-time requirements, and planning needs before selecting an appropriate agent architecture. This will support more effective and justifiable design decisions. 
 
-## Unit 5 Reflection
+## Unit 5 : Agent Communication
 ## Reflection (Rolfe et al., 2001)
 
 ## What?
