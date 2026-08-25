@@ -2,7 +2,9 @@
 This week introduced the fundamental concepts of agent-based computing, including intelligent agents, autonomy, decision-making, interaction, and multi-agent systems. I learned how agents perceive their environment, make decisions, and perform actions to achieve specific goals. The unit also highlighted the increasing role of Large Language Models (LLMs) in agent-based systems, particularly for reasoning, planning, task decomposition, and information gathering.
 
 ## Evidence of Learning
-My contribution to the group project focused on evaluating an LLM-powered academic research agent. I investigated challenges associated with this approach, including hallucinations, poor task decomposition, context limitations, bias, communication overhead, and error propagation. I also explored mitigation strategies such as source verification, validation mechanisms, human oversight, and structured agent communication.
+As part of the weekly discussion activity, I created an initial post examining what has led to the rise of agent-based systems and their benefits. I identified several factors driving their adoption, including advances in AI and machine learning, increased computing power, the need for automation, and the growing demand for systems that can operate autonomously in complex environments. I also discussed key benefits such as adaptability, scalability, task specialisation, and improved decision-making.
+
+Additionally, I contributed to the group project as i was assigned with analysing challenges associated with an LLM-powered academic research agent, including hallucinations, bias, context limitations, and multi-agent coordination issues.
 
 ## Critical Analysis
 A significant insight was that increasing the number of agents does not automatically improve system performance. While a multi-agent architecture can promote task specialisation, scalability, and separation of responsibilities, it can also introduce latency, increased computational costs, and additional coordination challenges. Therefore, the value of additional agents depends on whether they provide meaningful functional benefits rather than unnecessary complexity.
