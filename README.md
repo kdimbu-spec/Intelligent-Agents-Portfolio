@@ -19,8 +19,8 @@ The portfolio will be progressively updated throughout the twelve learning units
 | 1 | Introduction to Agent-Based Computing | [Unit1](units/unit1.md) |
 | 2 | First Order Logic | [Unit2](units/unit2.md) |
 | 3 | Agent Architectures | [Unit3](units/unit3.md) |
-| 4 | Coming soon | Unit4 |
-| 5 | Coming soon | Unit5 |
+| 4 | Hybrid Agent Architecture|[Unit4](units/unit4.md) |
+| 5 | Agent Communication | [Unit5](units/unit5.md) |
 | 6 | Coming soon | Unit 6 |
 | 7 | Coming soon | Unit 7 |
 | 8 | Coming soon | Unit 8 |
@@ -33,12 +33,12 @@ The portfolio will be progressively updated throughout the twelve learning units
 ## Portfolio Sections
 
 - [About Me](about.md)
+- [Learning-outcomes] (learning-outcomes.md)
 - [Reflective Journal](reflections.md)
 - [Collaboration and Discussions](collaboration/forum-contributions.md)
 - [Case Studies](case-studies/)
 - [Final Project](final-project/design.md)
 - [Evidence](evidence/)
-
 
 ## Purpose of the Portfolio
 
