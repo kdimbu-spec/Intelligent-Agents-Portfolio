@@ -1,4 +1,4 @@
-### Week 1 Portfolio Update: Introduction to Agent-Based Computing
+### Week 1: Introduction to Agent-Based Computing
 This week introduced the fundamental concepts of agent-based computing, including intelligent agents, autonomy, decision-making, interaction, and multi-agent systems. I learned how agents perceive their environment, make decisions, and perform actions to achieve specific goals. The unit also highlighted the increasing role of Large Language Models (LLMs) in agent-based systems, particularly for reasoning, planning, task decomposition, and information gathering.
 
 ## Evidence of Learning
