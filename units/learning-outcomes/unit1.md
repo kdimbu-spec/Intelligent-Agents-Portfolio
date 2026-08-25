@@ -15,7 +15,7 @@ I explored the foundations of agent-based computing and evaluated the design of 
 This helped me understand that autonomy must be balanced with reliability, transparency, and human oversight to ensure trustworthy outcomes.
 ## Now What?
 In future projects, I will critically evaluate architectural decisions by considering both the advantages and risks of autonomy before selecting an agent-based solution.
-Word Count: 224 words.
+
 ## References
 Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson.
 Wooldridge, M. (2009) An Introduction to MultiAgent Systems. 2nd edn. Chichester: Wiley.
