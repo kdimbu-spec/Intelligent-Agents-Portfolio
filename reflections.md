@@ -12,56 +12,51 @@ In future projects, I will critically evaluate architectural decisions by consid
 
 
 ## Unit 2 Reflection
+## What?
+ I learned how FOL represents knowledge, supports reasoning, and enables inference within intelligent systems.
 
-### What?
+## So What?
+ This improved my understanding of how agents can derive conclusions from facts and rules rather than simply processing information.
 
-[What did I learn?]
+## Now What?
+ I will apply this knowledge when evaluating intelligent agent designs, particularly by considering how formal reasoning can improve the reliability of LLM-based systems.
 
-### So What?
-
-[Why was this learning significant?]
-
-### Now What?
-
-[How will I apply this learning?]
-
----
+Evidence: Lecture Cast, Chapter 8 reading, worked FOL examples, seminar participation, collaborative discussions, and e-portfolio reflection.
 
 ## Unit 3 Reflection
-
 ### What?
-
-[What did I learn?]
+ I studied different agent architectures and examined how they influence intelligent behaviour.
 
 ### So What?
-
-[Why was this learning significant?]
+ This improved my ability to critically evaluate architectural choices and understand the trade-offs between reactive and deliberative approaches.
 
 ### Now What?
+ For my LLM-powered academic research agent project, I will ensure architectural decisions are driven by functional requirements and measurable benefits rather than unnecessary complexity.
 
-[How will I apply this learning?]
-
----
-
+Evidence: Lecture Cast, collaborative discussion, seminar participation, architecture evaluation exercises, group project analysis, and e-portfolio reflection.
+ 
 ## Unit 4 Reflection
-
-### What?
-
-### So What?
-
-### Now What?
-
----
+## What?
+I analysed hybrid architectures and their application to an autonomous warehouse robot.
+## So What?
+This improved my understanding of how architecture choice affects system performance, safety, and goal achievement.
+## Now What?
+In future projects, I will evaluate environmental uncertainty, response-time requirements, and planning needs before selecting an appropriate agent architecture. This will support more effective and justifiable design decisions. 
 
 ## Unit 5 Reflection
+## Reflection (Rolfe et al., 2001)
 
-### What?
+## What?
+ I analysed the advantages of ACLs and compared them with conventional programming communication mechanisms.
 
-### So What?
+## So What?
+ This improved my understanding of how communication enables coordination within autonomous multi-agent systems.
 
-### Now What?
+## Now What?
+ For the proposed LLM-powered academic research system, I will explore how ACL-style communication and shared ontologies can support reliable collaboration between specialised agents.
 
----
+Evidence: Initial discussion post, ACL versus method invocation comparison, collaborative discussion participation, ontology analysis, group project application, and e-portfolio reflection.
+
 
 ## Unit 6 Reflection
 
