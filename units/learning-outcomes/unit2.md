@@ -14,18 +14,6 @@ represents all students with a single statement, demonstrating how FOL can model
 
 This unit highlighted the difference between structured logical reasoning and natural-language reasoning. While modern LLMs can generate fluent responses, FOL provides transparent and explainable reasoning because relationships and rules are explicitly defined. However, FOL can be computationally expensive and is less effective when dealing with uncertain or incomplete information. This suggests that future intelligent systems may benefit from combining logical reasoning with LLM capabilities.
 
-## Reflection (Rolfe et al., 2001)
-
-## What?
- I learned how FOL represents knowledge, supports reasoning, and enables inference within intelligent systems.
-
-## So What?
- This improved my understanding of how agents can derive conclusions from facts and rules rather than simply processing information.
-
-## Now What?
- I will apply this knowledge when evaluating intelligent agent designs, particularly by considering how formal reasoning can improve the reliability of LLM-based systems.
-
-Evidence: Lecture Cast, Chapter 8 reading, worked FOL examples, seminar participation, collaborative discussions, and e-portfolio reflection.
 
 ## Reference
 
