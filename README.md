@@ -33,7 +33,7 @@ The portfolio will be progressively updated throughout the twelve learning units
 ## Portfolio Sections
 
 - [About Me](about.md)
-- [Learning-outcomes] (learning-outcomes.md)
+- [Learning-outcomes] (units/learning-outcomes.md)
 - [Reflective Journal](reflections.md)
 - [Collaboration and Discussions](collaboration/forum-contributions.md)
 - [Case Studies](case-studies/)
