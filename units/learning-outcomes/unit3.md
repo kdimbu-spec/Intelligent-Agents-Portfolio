@@ -52,16 +52,6 @@ Therefore, the architecture should be driven by **functional requirements and ev
 
 This principle is particularly relevant to my academic research agent project, where architectural complexity must be balanced against **research quality, reliability, efficiency and controllability**.
 
-## Evidence
-
-* Unit 3 Lecture Cast: *Agent Architectures*
-* Worked architecture examples
-* Unit 3 reading
-* Collaborative Discussion summary post
-* Group architecture discussions
-* Academic research agent architecture proposal
-* e-Portfolio reflection
-
 ## Learning Outcomes Achieved
 
 By completing this unit, I developed the ability to:
