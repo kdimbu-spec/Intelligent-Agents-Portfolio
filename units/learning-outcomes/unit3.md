@@ -1,65 +1,30 @@
-# Unit 3: Agent Architectures
+# Week 3 Portfolio Update: Agent Architectures
 
-## Overview
+This week focused on the development, evolution, and selection of agent architectures. The unit explored how different architectures influence agent behaviour and decision-making, including symbolic reasoning, state-based, and reactive approaches. A key theme was that there is no single architecture suitable for every intelligent system; the choice depends on the problem, environment, goals, and level of autonomy required.
 
-Unit 3 focused on the **development, evolution and selection of agent architectures**. The unit examined how different approaches have emerged in agent-based research and explored architectures including **symbolic reasoning agents, state-based agents and reactive architectures**.
+## Evidence of Learning
 
-The key lesson was that there is no single architecture that is appropriate for every intelligent system. Architecture selection should be based on the characteristics of the task, environment, goals, reasoning requirements and desired level of autonomy.
+Through the Lecture Cast, seminar activities, and reading, I developed an understanding of symbolic reasoning agents, state-based agents, and reactive architectures. I also explored the distinction between desires and intentions, where desires represent goals an agent wishes to achieve, while intentions represent commitments to specific actions. This helped me understand how agents move from identifying objectives to executing behaviour.
 
-## Key Learning
+As part of the collaborative discussion, I evaluated the strengths and limitations of different architectures and considered how architectural decisions affect system performance, flexibility, and reasoning capabilities.
 
-Through the Lecture Cast, worked examples and learning activities, I developed an understanding of:
+## Critical Analysis
 
-* The history and development of agent-based systems.
-* Symbolic reasoning architectures.
-* State-based architectures.
-* Reactive architectures.
-* The strengths and limitations of different architectures.
-* How architecture influences agent behaviour.
-* The distinction between **desires and intentions**.
-* How to select an appropriate architecture for a particular task.
+The most important insight from this unit was that architecture selection is a critical design decision rather than a technical preference. Reactive architectures are effective in dynamic environments where rapid responses are required, while deliberative architectures are better suited to complex problems that require planning and reasoning. However, neither approach is universally superior. Effective system design requires balancing responsiveness, computational cost, and goal-directed behaviour based on the application domain.
 
-One important distinction was between **reactive and deliberative approaches**. Reactive agents can respond quickly to environmental changes but generally have limited planning capabilities, while deliberative agents can reason about goals and possible future actions but may require greater computational resources.
+## Reflection (Rolfe et al., 2001)
 
-## Critical Reflection
+### What?
+ I studied different agent architectures and examined how they influence intelligent behaviour.
 
-The unit changed my perspective on agent design by showing that **choosing an architecture is a fundamental design decision**.
+### So What?
+ This improved my ability to critically evaluate architectural choices and understand the trade-offs between reactive and deliberative approaches.
 
-An architecture should not be selected simply because it is technologically advanced. Instead, the architecture must address the requirements of the problem. For example, a highly reactive architecture may be suitable where rapid responses are essential, while a deliberative or planning-oriented architecture may be more appropriate for complex problems requiring reasoning and goal-directed behaviour.
+### Now What?
+ For my LLM-powered academic research agent project, I will ensure architectural decisions are driven by functional requirements and measurable benefits rather than unnecessary complexity.
 
-The discussion of **desires and intentions** was also important. A desire represents a goal or preferred outcome, whereas an intention represents a commitment to pursuing a particular course of action. This distinction helped me understand how agents move from identifying what they want to achieve towards determining what they will actually do.
+Evidence: Lecture Cast, collaborative discussion, seminar participation, architecture evaluation exercises, group project analysis, and e-portfolio reflection.
 
-## Connection to My Group Assignment
+### Reference
 
-The learning from Unit 3 directly supported my contribution to the group assignment on the **LLM-powered academic research agent**.
-
-My key responsibilities were:
-
-* **Rationale for the proposed architecture**
-* **Challenges and mitigation**
-* **Critical evaluation of the LLM-powered agent**
-
-The academic research problem requires an agent to interpret a high-level research question, plan and decompose tasks, retrieve information, evaluate sources, synthesise findings and produce a structured output. This makes a planning-oriented approach more appropriate than a purely reactive architecture.
-
-However, Unit 3 also helped me critically question whether a **multi-agent architecture** was necessary for every part of the problem. Multiple agents can provide specialisation and modularity, but they can also introduce communication overhead, latency, cost and coordination challenges.
-
-Therefore, the architecture should be driven by **functional requirements and evidence of benefit**, rather than by the assumption that more sophisticated or more numerous agents will automatically produce better results.
-
-## Key Takeaway
-
-> **Effective agent design requires selecting an architecture that matches the problem.
-> There is no universally superior architecture; the appropriate choice depends on the task, environment, reasoning requirements and desired level of autonomy.**
-
-This principle is particularly relevant to my academic research agent project, where architectural complexity must be balanced against **research quality, reliability, efficiency and controllability**.
-
-## Learning Outcomes Achieved
-
-By completing this unit, I developed the ability to:
-
-✓ **Critically evaluate different agent architectures.**
-✓ **Consider and select an appropriate architecture for a given task.**
-✓ **Explain the distinction between desires and intentions.**
-
-## Reference
-
-Russell, S. and Norvig, P. (2021) *Artificial Intelligence: A Modern Approach*. 4th edn. Harlow: Pearson.
+Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson.
