@@ -8,13 +8,6 @@ Additionally, I contributed to the group project as i was assigned with analysin
 
 ## Critical Analysis
 A significant insight was that increasing the number of agents does not automatically improve system performance. While a multi-agent architecture can promote task specialisation, scalability, and separation of responsibilities, it can also introduce latency, increased computational costs, and additional coordination challenges. Therefore, the value of additional agents depends on whether they provide meaningful functional benefits rather than unnecessary complexity.
-## Reflection (Rolfe et al., 2001)
-## What?
-I explored the foundations of agent-based computing and evaluated the design of an LLM-powered academic research agent.
-## So What?
-This helped me understand that autonomy must be balanced with reliability, transparency, and human oversight to ensure trustworthy outcomes.
-## Now What?
-In future projects, I will critically evaluate architectural decisions by considering both the advantages and risks of autonomy before selecting an agent-based solution.
 
 ## References
 Russell, S. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson.
