@@ -1,4 +1,4 @@
-### Week 2 Portfolio Update: Introducing First-Order Logic
+### Week 2 : Introducing First-Order Logic
 
 This week built on the foundations of intelligent agents introduced in Unit 1 by exploring First-Order Logic (FOL) as a formal approach to knowledge representation and reasoning. The unit focused on the key symbols and components of FOL, the relationship between natural language and logical expressions, and the use of quantifiers to represent groups of objects and general rules. Understanding FOL provides an important theoretical foundation for many AI concepts explored later in the module.
 
