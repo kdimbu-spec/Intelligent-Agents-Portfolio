@@ -1,59 +1,26 @@
-# Week 5 Agent Communications
+# Week 5 Portfolio Update: Agent Communication
 
-* **Weekly Learning**
+This week focused on agent communication, particularly the use of Agent Communication Languages (ACLs), Speech Act Theory, and ontologies within multi-agent systems. A significant part of my learning came from my initial collaborative discussion post, where I examined the advantages of ACLs and compared them with traditional method invocation approaches used in programming languages such as Python and Java.
 
-  * Explored **Speech Act Theory, Agent Communication Languages (ACLs), KQML and ontologies**.
-  * Speech Act Theory explains communication as intentional actions such as requesting, informing, querying and agreeing (Austin, 1962; Searle, 1969).
-  * KQML demonstrates how agents can communicate using performatives such as `ask`, `tell` and `request` (Finin et al., 1994).
-  * Ontologies provide a shared vocabulary and representation of concepts, supporting semantic consistency between agents (Gruber, 1993).
+## Evidence of Learning
 
-* **Critical Evaluation**
+In my discussion post, I argued that ACLs provide several advantages, including improved autonomy, interoperability, modularity, and coordination between agents. Unlike traditional method invocation, where components communicate through direct function or method calls, ACLs enable agents to exchange messages while remaining independent and loosely coupled. This makes ACLs particularly suitable for distributed and heterogeneous environments where agents may operate on different platforms or possess different capabilities.
 
-  * ACLs can improve **agent autonomy, interoperability, modularity and coordination**.
-  * Compared with Python/Java method invocation, ACLs support communication between autonomous and potentially distributed agents rather than relying on tightly coupled interfaces.
-  * Limitations include **communication overhead, increased complexity and semantic interoperability challenges**.
-  * Ontologies can reduce ambiguity but require agents to share compatible interpretations and may become difficult to maintain as systems expand.
+I also explored performatives such as ask, tell, and request, which enable agents to communicate intentions rather than simply exchange data. Additionally, I examined how ontologies can provide a shared vocabulary to reduce ambiguity and improve semantic understanding between agents.
 
-* **Application to Proposed Multi-Agent System**
+## Critical Analysis
 
-  * Applied the concepts to the proposed **LLM-powered academic research system**.
-  * **Planning Agent:** decomposes research questions and coordinates tasks.
-  * **Retrieval Agent:** searches for academic sources.
-  * **Processing Agent:** analyses and synthesises information.
-  * **Storage Agent:** manages research outputs and metadata.
-  * An ontology could define concepts such as *research question, article, author, dataset, methodology, evidence* and *citation*.
-  * ACL-style communication could allow agents to request, provide and validate information.
-  * The design must balance the benefits of agent communication against additional complexity, latency and potential LLM errors.
+Comparing ACLs with Python and Java method invocation highlighted an important trade-off. Traditional method calls are generally faster and simpler to implement, but they assume tightly coupled components and shared execution environments. ACLs offer greater flexibility and scalability but introduce communication overhead, semantic interoperability challenges, and increased system complexity. Therefore, the choice between these approaches should depend on the system requirements rather than assuming one is universally superior.
 
-* **Collaborative Learning**
+## Reflection (Rolfe et al., 2001)
 
-  * Participated in the Collaborative Discussion on KQML and ACLs.
-  * Compared agent communication with conventional programming method invocation.
-  * Peer interaction supported critical thinking and consideration of alternative perspectives.
-  * Team activities reinforced the importance of clear roles, communication and shared terminology.
+## What?
+ I analysed the advantages of ACLs and compared them with conventional programming communication mechanisms.
 
-* **Professional Skills Developed**
+## So What?
+ This improved my understanding of how communication enables coordination within autonomous multi-agent systems.
 
-  * **Critical thinking:** evaluated alternative communication approaches.
-  * **Communication:** developed concise academic arguments.
-  * **IT and Digital:** strengthened understanding of ACLs and ontologies.
-  * **Problem-solving:** considered semantic interoperability challenges.
-  * **Teamwork:** contributed to collaborative learning activities.
-  * **Ethical awareness:** considered reliability and ambiguity in LLM-based systems.
-  * **Time management:** balanced coursework, collaboration and project development.
+## Now What?
+ For the proposed LLM-powered academic research system, I will explore how ACL-style communication and shared ontologies can support reliable collaboration between specialised agents.
 
-* **Reflection and PDP**
-
-  * Recognised that effective agent communication involves both **information and intention**.
-  * Identified the need to develop practical skills in implementing agent communication and ontologies.
-  * Planned to create an ontology and prototype agent communication mechanism for the proposed system.
-  * Will continue strengthening critical analysis, teamwork and professional communication.
-
-* **Module Alignment**
-
-  * **LO1:** Critically analysed agent communication approaches.
-  * **LO2:** Applied ACL and ontology concepts to a real-world research system.
-  * **LO3:** Considered appropriate technical and ethical implementation issues.
-  * **LO4:** Developed communication, teamwork and collaboration skills.
-
-**Key References:** Austin (1962); Finin et al. (1994); Gruber (1993); Searle (1969); Wooldridge (2009).
+Evidence: Initial discussion post, ACL versus method invocation comparison, collaborative discussion participation, ontology analysis, group project application, and e-portfolio reflection.
