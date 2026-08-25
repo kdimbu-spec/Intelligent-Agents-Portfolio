@@ -1,26 +1,15 @@
 # Reflective Journal
 
-This journal records my development throughout the Intelligent Agents module.
-
-The reflections follow the What? So What? Now What? framework.
-
----
-
 ## Unit 1 Reflection
 
-### What?
+## Reflection (Rolfe et al., 2001)
+## What?
+I explored the foundations of agent-based computing and evaluated the design of an LLM-powered academic research agent.
+## So What?
+This helped me understand that autonomy must be balanced with reliability, transparency, and human oversight to ensure trustworthy outcomes.
+## Now What?
+In future projects, I will critically evaluate architectural decisions by considering both the advantages and risks of autonomy before selecting an agent-based solution.
 
-[What did I learn?]
-
-### So What?
-
-[Why was this learning significant?]
-
-### Now What?
-
-[How will I apply this learning?]
-
----
 
 ## Unit 2 Reflection
 
