@@ -16,11 +16,11 @@ The portfolio will be progressively updated throughout the twelve learning units
 
 | Unit | Topic | Portfolio |
 |---|---|---|
-| 1 | Introduction to Agent-Based Computing | [Unit 1](units/unit1.md) |
-| 2 | First Order Logic | [Unit 2](units/unit2.md) |
-| 3 | Agent Architectures | [Unit 3](units/unit3.md) |
-| 4 | Coming soon | Unit 4 |
-| 5 | Coming soon | Unit 5 |
+| 1 | Introduction to Agent-Based Computing | [Unit1](units/unit1.md) |
+| 2 | First Order Logic | [Unit2](units/unit2.md) |
+| 3 | Agent Architectures | [Unit3](units/unit3.md) |
+| 4 | Coming soon | Unit4 |
+| 5 | Coming soon | Unit5 |
 | 6 | Coming soon | Unit 6 |
 | 7 | Coming soon | Unit 7 |
 | 8 | Coming soon | Unit 8 |
