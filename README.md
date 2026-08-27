@@ -21,14 +21,13 @@ The portfolio will be progressively updated throughout the twelve learning units
 | 3 | Agent Architectures | [Unit3](units/unit3.md) |
 | 4 | Hybrid Agent Architecture|[Unit4](units/unit4.md) |
 | 5 | Agent Communication | [Unit5](units/unit5.md) |
-| 6 | Coming soon | Unit 6 |
-| 7 | Coming soon | Unit 7 |
-| 8 | Coming soon | Unit 8 |
-| 9 | Coming soon | Unit 9 |
-| 10 | Coming soon | Unit 10 |
-| 11 | Coming soon | Unit 11 |
-| 12 | Coming soon | Unit 12 |
-
+| 6 | Working Together | [Unit6](units/unit6.md) |
+| 7 | Natural Language Processing (NLP) | [Unit7](units/unit7.md) |
+| 8 | Understanding Natural Language Processing (NLP) | [Unit8](units/unit8.md) |
+| 9 | Introduction to Adaptive Algorithms | [Unit9](units/unit9.md) |
+| 10 | Deep Learning in Action | [Unit10](units/unit10.md) |
+| 11 | Intelligent Agents in Action | [Unit11](units/unit11.md) |
+| 12 | The Future of Intelligent Agents | [Unit12](units/unit12.md) |
 
 ## Portfolio Sections
 
