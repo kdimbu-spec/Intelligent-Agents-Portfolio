@@ -19,7 +19,6 @@ This e-portfolio documents my learning, development, and applied practice throug
 - [7. Critical Evaluation of Final Project](#7-critical-evaluation-of-final-project)
 - [8. References](#8-references)
 
----
 
 ## 1. Module Exercises & Outputs
 
@@ -31,23 +30,16 @@ Summarise each exercise and link to its file or notebook.
 | [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
 
 
-[Add a 2–3 sentence reflection on what these exercises taught you about agent architectures, if space allows within the 1500-word allowance.]
-
----
-
 ## 2. Coding Scripts & Agent Implementations
 
 | File | Purpose | Language | Link |
 |------|---------|----------|------|
-| `reactive_agent.py` | [Brief description] | Python | [Link](./code/reactive_agent.py) |
-| `deliberative_agent.py` | [Brief description] | Python | [Link](./code/deliberative_agent.py) |
-| `final_agent.py` | Final project implementation | Python | [Link](./code/final_agent.py) |
+| `individual_implementation_project (2).py` | implementation of an academic research  multi-agent that seaches and retrieves, processes  | Python | https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/evidence/individual_implementation_project%20(2).py  |
+
 
 **Key implementation notes:**
-- [One or two sentences on architecture chosen and why]
-- [One or two sentences on constraints or safety mechanisms implemented]
+The architecture. I adopted a blackboard design pattern, which is standard in multi-agent systems research — agents communicate indirectly through a shared state object rather than calling each other directly. That shared state is a Pydantic model called ResearchState, and it holds the research question, the plan, retrieved papers, processed papers, errors, and a sufficiency flag
 
----
 
 ## 3. System Designs
 
