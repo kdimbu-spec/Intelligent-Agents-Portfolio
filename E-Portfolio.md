@@ -64,8 +64,8 @@ The architecture. I adopted a blackboard design pattern, which is standard in mu
 
 ### Forum Posts
 
-![Forum Contribution 1](./images/forum_post_1.png)
-*[Caption: Discussion of [topic] — [date]]*
+![Forum Discussion Evidence ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/tree/main/collaboration)
+
 
 ![Forum Contribution 2](./images/forum_post_2.png)
 *[Caption: Response to teammate on [topic] — [date]]*
