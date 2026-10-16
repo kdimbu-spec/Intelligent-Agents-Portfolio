@@ -181,6 +181,4 @@ The most significant gap between design and implementation was [describe]. If I 
 - The University of Edinburgh (no date) *Reflection Toolkit*. Available at: https://reflection.ed.ac.uk.
 - UoEO (no date) *Short Guide to Reflective Writing*. Study Skills Hub.
 
----
 
-*This e-portfolio forms part of the assessment for the Intelligent Agents module. The 1,000-word final reflection is submitted separately via Turnitin and is not duplicated here. Content on this page sits within the 1,500-word e-portfolio allowance.*
