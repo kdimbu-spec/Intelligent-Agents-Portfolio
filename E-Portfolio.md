@@ -1,11 +1,9 @@
 # Intelligent Agents — Individual Module E-Portfolio
 
-**Student Number:** [12345678]
+**Student Number:** [36995]
 **Module Name:** Intelligent Agents
 **Assessment Title:** Individual Module e-Portfolio
 **Submitted:** [19 October 2024]
-
----
 
 ## Overview
 
