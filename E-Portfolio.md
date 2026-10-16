@@ -27,9 +27,9 @@ Summarise each exercise and link to its file or notebook.
 
 | Week | Exercise | Output | Link |
 |------|----------|--------|------|
-| [1]  | [KQML_KIF_Agent_Communication.ipynb] | [Creating a Warehouse Agent based KQML] | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/KQML_KIF_Agent_Communication.ipynb) |
-| [2]  | [Exercise name] | [Brief description] | [Link](./exercises/week2/) |
-| [3]  | [Exercise name] | [Brief description] | [Link](./exercises/week3/) |
+| [1]  | KQML_KIF_Agent_Communication.ipynb | Creating a Warehouse Agent based KQML,  Alice is an agent designed to procure stock and Bob is an agent that controls the stock levels for a warehouse. This dialogue should see Alice asking Bob about the available stock of 50 inch televisions, and also querying the number of HDMI slots the televisions have. | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/KQML_KIF_Agent_Communication.ipynb) |
+| [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
+
 
 [Add a 2–3 sentence reflection on what these exercises taught you about agent architectures, if space allows within the 1500-word allowance.]
 
