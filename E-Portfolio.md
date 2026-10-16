@@ -27,7 +27,8 @@ Summarise each exercise and link to its file or notebook.
 
 | Week | Exercise | Output | Link |
 |------|----------|--------|------|
-| [1]  | [Exercise name] | [Brief description] | [Link](./exercises/week1/) |
+| [1]  | [KQML_KIF_Agent_Communication.ipynb] | [Creating a Warehouse Agent based KQML] | [Link](Intelligent-Agents-Portfolio
+/KQML_KIF_Agent_Communication.ipynb ) |
 | [2]  | [Exercise name] | [Brief description] | [Link](./exercises/week2/) |
 | [3]  | [Exercise name] | [Brief description] | [Link](./exercises/week3/) |
 
