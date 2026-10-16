@@ -1,4 +1,4 @@
-DESIGN BRIEFING 
+DESIGN BRIEFING \
 This project involved developing a multi-agent research assistant to automate the retrieval, evaluation, and ranking of academic literature. The system uses a blackboard architecture, enabling specialised agents to communicate through a shared state and work collaboratively on complex research tasks.
 
 
