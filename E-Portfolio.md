@@ -43,19 +43,9 @@ The architecture. I adopted a blackboard design pattern, which is standard in mu
 
 ## 3. System Designs
 
-### Final Project Design (Week 7)
+### Final Project Design 
+[final-project/design.md ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/final-project/design.md)
 
-![System Design Diagram](./images/system_design.png)
-
-[Brief description of the architecture, agent roles, environment, and design rationale.]
-
-### Implemented Solution (Week 11)
-
-![Implemented System](./images/implemented_system.png)
-
-[Brief description of what changed between design and implementation, and why.]
-
----
 
 ## 4. Data Analysis
 
