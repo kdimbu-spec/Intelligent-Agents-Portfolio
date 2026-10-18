@@ -83,8 +83,25 @@ Across all three discussions, I demonstrated the ability to analyse complex conc
 ![Forum Discussion Evidence ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/tree/main/collaboration)
 
 
-## 6. Reflective Case Studies
+## 3. Reflective Commentary on Intelligent Agents
 
+## Knowledge Developed
+
+This module developed my understanding of intelligent agents from foundational concepts to advanced AI applications. I began by exploring autonomy, perception, decision-making, and multi-agent systems before progressing to First-Order Logic (FOL) as a formal method for knowledge representation and reasoning. I then examined a range of agent architectures, including symbolic, reactive, deliberative, and hybrid approaches such as the 3T Architecture, gaining insight into how architectural choices influence agent behaviour and performance.
+
+My understanding expanded further through studying Agent Communication Languages (ACLs), KQML, KIF, and ontologies, which demonstrated how agents exchange knowledge and coordinate actions. Later units introduced Natural Language Processing (NLP), including Word2Vec, syntactic analysis, and constituency-based parse trees, before progressing to adaptive algorithms, neural networks, and deep learning. The final units connected these concepts to practical applications in Industry 4.0, smart manufacturing, and FinTech, showing how intelligent agents operate in real-world environments.
+
+## Skills Developed
+
+Throughout the module, I strengthened my critical thinking, research, and analytical skills. Discussion activities required me to evaluate different agent architectures, communication approaches, and learning techniques, considering both benefits and limitations. Practical exercises developed my technical skills in constructing FOL expressions, designing KQML agent dialogues, analysing NLP models, and creating constituency-based parse trees.
+
+The group project enhanced my ability to investigate complex AI systems by assessing the challenges of LLM-powered research agents, including hallucinations, bias, context limitations, and multi-agent coordination. These activities improved my ability to communicate technical concepts, evaluate evidence, and apply theoretical knowledge to practical scenarios.
+
+## Understanding Developed
+
+The most significant insight I gained is that effective intelligent systems depend on appropriate design choices rather than increasing complexity. Adding more agents, layers, or communication mechanisms can improve functionality, but may also introduce coordination challenges, latency, and computational overhead. I also developed a deeper appreciation of the trade-off between explainability and capability. While logical approaches such as FOL provide transparent reasoning, data-driven techniques such as deep learning offer greater flexibility but often at the cost of interpretability.
+
+Equally important was recognising the ethical responsibilities associated with intelligent systems. Issues such as bias, fairness, privacy, transparency, and accountability emerged as essential considerations throughout the module, reinforcing that technical performance alone is insufficient for responsible AI deployment.
 
 ### Case Study 1: Bias in Autonomous Decision-Making
 
