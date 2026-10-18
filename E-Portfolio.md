@@ -14,7 +14,8 @@ This e-portfolio documents my learning, development, and applied practice throug
 - [2. Data Analysis and Forum Contribution](#2-data-analysis-forum-contribution)
 - [3. Reflective Commentary on Intelligent Agents](#3-reflective-Commentary)
 - [4. Critical Evaluation of Final Project](#4-critical-evaluation-of-final-project)
-- [5. References](#5-references)
+- [5. Reflective case studies](#5-Reflective-case-studiess)
+- [6. References](#5-references)
 
 
 ## 1. Module Exercises & Outputs
@@ -40,7 +41,7 @@ I participated in Collaborative Discussion 3: Deep Learning, investigating the i
 
 I also explored ethical issues such as AI bias, explainability, transparency, and responsible deployment. These activities strengthened my understanding of contemporary AI challenges and informed the development of my final project: a multi-agent research assistant incorporating planning, retrieval, processing, and synthesis agents within a Blackboard-based architecture.
 
-Evidence 
+### Evidence 
 
 | Week | Exercise | Output | Link |
 |------|----------|--------|------|
@@ -48,13 +49,11 @@ Evidence
 | [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
 
 
-## Coding Scripts & Agent Implementations
+### Coding Scripts & Agent Implementations
 
 | File | Purpose | Language | Link |
 |------|---------|----------|------|
 | `individual_implementation_project (2).py` | implementation of an academic research  multi-agent that seaches and retrieves, processes  | Python | https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/evidence/individual_implementation_project%20(2).py  |
-
-
 
 ### Final Project Design 
 [final-project/design.md ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/final-project/design.md) 
@@ -74,9 +73,6 @@ I critically compared Agent Communication Languages (KQML and FIPA-ACL) with tra
 ### Discussion 3 – Deep Learning and Generative AI Ethics
 I evaluated the benefits and risks of generative AI, focusing on misinformation, algorithmic bias, privacy, intellectual property, and governance. Through critical engagement with peer contributions, I moved beyond broad ethical principles to consider practical mechanisms such as bias audits, transparency requirements, regulatory frameworks, and accountability measures. This enabled me to develop a balanced, evidence-based perspective on responsible AI deployment.
 
-### Overall Reflection
-Across all three discussions, I demonstrated the ability to analyse complex concepts, evaluate evidence from multiple sources, challenge assumptions, and refine my understanding through peer engagement. These discussions strengthened my capacity to develop balanced, well-reasoned conclusions and apply critical thinking to both the technical and societal implications of Artificial Intelligence and Multi-Agent Systems.
-
 
 ### Forum Posts
 
@@ -85,19 +81,19 @@ Across all three discussions, I demonstrated the ability to analyse complex conc
 
 ## 3. Reflective Commentary
 
-## Knowledge Developed
+### Knowledge Developed
 
 This module developed my understanding of intelligent agents from foundational concepts to advanced AI applications. I began by exploring autonomy, perception, decision-making, and multi-agent systems before progressing to First-Order Logic (FOL) as a formal method for knowledge representation and reasoning. I then examined a range of agent architectures, including symbolic, reactive, deliberative, and hybrid approaches such as the 3T Architecture, gaining insight into how architectural choices influence agent behaviour and performance.
 
 My understanding expanded further through studying Agent Communication Languages (ACLs), KQML, KIF, and ontologies, which demonstrated how agents exchange knowledge and coordinate actions. Later units introduced Natural Language Processing (NLP), including Word2Vec, syntactic analysis, and constituency-based parse trees, before progressing to adaptive algorithms, neural networks, and deep learning. The final units connected these concepts to practical applications in Industry 4.0, smart manufacturing, and FinTech, showing how intelligent agents operate in real-world environments.
 
-## Skills Developed
+### Skills Developed
 
 Throughout the module, I strengthened my critical thinking, research, and analytical skills. Discussion activities required me to evaluate different agent architectures, communication approaches, and learning techniques, considering both benefits and limitations. Practical exercises developed my technical skills in constructing FOL expressions, designing KQML agent dialogues, analysing NLP models, and creating constituency-based parse trees.
 
 The group project enhanced my ability to investigate complex AI systems by assessing the challenges of LLM-powered research agents, including hallucinations, bias, context limitations, and multi-agent coordination. These activities improved my ability to communicate technical concepts, evaluate evidence, and apply theoretical knowledge to practical scenarios.
 
-## Understanding Developed
+### Understanding Developed
 
 The most significant insight I gained is that effective intelligent systems depend on appropriate design choices rather than increasing complexity. Adding more agents, layers, or communication mechanisms can improve functionality, but may also introduce coordination challenges, latency, and computational overhead. I also developed a deeper appreciation of the trade-off between explainability and capability. While logical approaches such as FOL provide transparent reasoning, data-driven techniques such as deep learning offer greater flexibility but often at the cost of interpretability.
 
@@ -121,8 +117,29 @@ The paper-ranking mechanism relied on predefined heuristics rather than machine 
 
 Scalability challenges were also identified when processing larger datasets. 
 
-Overall, the project successfully met its objectives while highlighting the importance of iterative development, modular design, and balancing theoretical architecture with practical implementation constraints.
 
+## 5. Reflective case studies
+
+### Bias in Autonomous Decision-Making
+Context: While developing the paper-ranking agent, I designed a scoring mechanism that prioritised relevance and evidence quality.
+
+Reflection: During testing, I noticed that the system consistently favoured highly cited and recent papers. Although this improved perceived quality, it sometimes overlooked niche studies that offered important alternative perspectives. This demonstrated how developer-defined rules can introduce bias into autonomous decision-making. The experience showed me that bias is not limited to datasets; it can also arise from algorithm design and weighting decisions. Future improvements could include multiple ranking criteria and user-adjustable preferences to reduce the impact of embedded assumptions.
+
+Key Learning: Developer choices significantly influence agent behaviour and must be critically evaluated for fairness.
+
+### Explainable Decisions in Agents (XAI)
+Context: Justication for why certain papers were recommended by the research agent.
+
+Reflection: I implemented relevance scores, quality ratings, and rationales for each recommendation. This transparency made it easier to verify outputs and identify weaknesses in the ranking process. When unexpected results occurred, the explanations helped trace the cause and improve the system. The process reinforced the importance of explainability in increasing trust and supporting effective debugging.
+
+Key Learning: Explainability improves both user confidence and developer understanding of agent behaviour.
+
+### Responsible Deployment and Emergent Behaviour
+Context: Multiple agents shared information through a blackboard architecture.
+
+Reflection: During testing, I observed that inaccurate outputs from one agent could affect the performance of subsequent agents. This highlighted the risk of unintended emergent behaviours within multi-agent systems. To address this, I introduced validation checks and state monitoring throughout the workflow. These mechanisms improved reliability and reduced the likelihood of misleading recommendations.
+
+Key Learning: Responsible deployment requires monitoring interactions between agents, not just individual agent performance.
 
 ## 8. References
 
