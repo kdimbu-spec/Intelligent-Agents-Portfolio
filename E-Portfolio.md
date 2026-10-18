@@ -56,7 +56,7 @@ I critically compared Agent Communication Languages (KQML and FIPA-ACL) with tra
 I evaluated the benefits and risks of generative AI, focusing on misinformation, algorithmic bias, privacy, intellectual property, and governance. Through critical engagement with peer contributions, I moved beyond broad ethical principles to consider practical mechanisms such as bias audits, transparency requirements, regulatory frameworks, and accountability measures. This enabled me to develop a balanced, evidence-based perspective on responsible AI deployment.
 
 ### Forum Posts
-
+click the link below to see screenshoots on the 3 module Discussion
 ![Forum Discussion Evidence ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/tree/main/collaboration)
 
 
