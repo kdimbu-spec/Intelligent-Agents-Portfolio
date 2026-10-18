@@ -1,9 +1,9 @@
 # Intelligent Agents — Individual Module E-Portfolio
 
-**Student Number:** [36995]
-**Module Name:** Intelligent Agents
-**Assessment Title:** Individual Module e-Portfolio
-**Submitted:** [19 October 2024]
+**Student Number:** 36995 \
+**Module Name:** Intelligent Agents \
+**Assessment Title:** Individual Module e-Portfolio \
+**Submitted:** 19 October 2024
 
 ## Overview
 
@@ -14,32 +14,19 @@ This e-portfolio documents my learning, development, and applied practice throug
 - [2. Data Analysis and Forum Contribution](#2-data-analysis-forum-contribution)
 - [3. Reflective Commentary on Intelligent Agents](#3-reflective-Commentary)
 - [4. Critical Evaluation of Final Project](#4-critical-evaluation-of-final-project)
-- [5. Reflective case studies](#5-Reflective-case-studiess)
+- [5. Reflective case studies](#5-Reflective-case-studies)
 - [6. References](#5-references)
-
 
 ## 1. Module Exercises & Outputs
 
 ### Weeks 1-4: Foundations of Intelligent Agents
-During the first four weeks, I established my Intelligent Agents e-Portfolio and shared it with the university for assessment. I participated in Collaborative Discussion 1: Agent-Based Systems , exploring the characteristics of intelligent agents, including autonomy, reactivity, proactiveness, and social ability. I researched Large Language Model (LLM)-powered agent architectures, focusing on task decomposition, planning strategies, and their application in academic research systems.
-
-This also was the weeks we started our group C design collaboration on academic research agent. 
+I established my e-portfolio and participated in Collaborative Discussion 1: Agent-Based Systems, exploring autonomy, reactivity, proactiveness and social ability, and researching LLM-powered agent architectures with a focus on task decomposition and planning. This period also began my group C design collaboration on an academic research agent.
 
 ### Weeks 5-7: Agent Communication and Collaboration
-
-The focus of this period was Agent Communication Languages. Through Collaborative Discussion 2, I explored the role of communication protocols in multi-agent systems, particularly KQML (Knowledge Query and Manipulation Language) and KIF (Knowledge Interchange Format).
-
-A key practical exercise involved creating an agent dialogue between Alice, a procurement agent, and Bob, a warehouse stock management agent. The dialogue enabled Alice to query the stock availability of 50-inch televisions and request product specifications, including HDMI port information. This exercise demonstrated how structured communication enables agents to exchange knowledge and coordinate effectively.
-
-I also engaged with peer discussions and produced a summary post that evaluated the advantages and limitations of agent communication approaches in intelligent systems.
+Through Collaborative Discussion 2: agent communication  I explored KQML and KIF. A key exercise was an agent dialogue between Alice (procurement) and Bob (warehouse stock), in which Alice queried the availability of 50-inch televisions and their HDMI port count, demonstrating how structured communication enables coordination.
 
 ### Weeks 8-11: Natural Language Processing and Deep Learning
-
-During Weeks 8-11, I completed practical activities focused on Natural Language Processing (NLP) and Deep Learning. I created constituency parse trees for several sentences, developing an understanding of syntactic structure and language analysis within intelligent systems.
-
-I participated in Collaborative Discussion 3: Deep Learning, investigating the impact of advanced neural networks on intelligent agents. As part of the "Deep Learning in Action" activity, I researched deep learning applications for knowledge discovery and information retrieval, examining both technical functionality and societal implications.
-
-I also explored ethical issues such as AI bias, explainability, transparency, and responsible deployment. These activities strengthened my understanding of contemporary AI challenges and informed the development of my final project: a multi-agent research assistant incorporating planning, retrieval, processing, and synthesis agents within a Blackboard-based architecture.
+I created constituency parse trees and participated in Collaborative Discussion 3, researching deep learning for knowledge discovery and examining bias, explainability and responsible deployment. These activities informed my final project: a multi-agent research assistant with planning, retrieval, processing and synthesis agents in a Blackboard architecture.
 
 ### Evidence 
 
@@ -49,7 +36,7 @@ I also explored ethical issues such as AI bias, explainability, transparency, an
 | [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
 
 
-### Coding Scripts & Agent Implementations
+### Agent Implementation Project
 
 | File | Purpose | Language | Link |
 |------|---------|----------|------|
@@ -62,7 +49,7 @@ I also explored ethical issues such as AI bias, explainability, transparency, an
 The architecture. I adopted a blackboard design pattern, which is standard in multi-agent systems research — agents communicate indirectly through a shared state object rather than calling each other directly. That shared state is a Pydantic model called ResearchState, and it holds the research question, the plan, retrieved papers, processed papers, errors, and a sufficiency flag
 
 
-## 2. Data Analysis and Forum Contribution
+## 2. Data Analysis and Forum Contribution 
 
 ### Discussion 1 – Drivers of Agent-Based Systems
 I analysed the organisational and technological factors driving the adoption of agent-based systems, including ubiquitous computing, network interconnectedness, advances in AI, and increasing task delegation. Through engagement with peer feedback, I broadened my analysis to consider organisational complexity as a key driver of multi-agent systems and critically evaluated the relationship between rational agency, autonomy, and decision-making under uncertainty. I also examined governance challenges, including trust, explainability, accountability, and human oversight, demonstrating an ability to assess both technical and ethical considerations.
@@ -73,7 +60,6 @@ I critically compared Agent Communication Languages (KQML and FIPA-ACL) with tra
 ### Discussion 3 – Deep Learning and Generative AI Ethics
 I evaluated the benefits and risks of generative AI, focusing on misinformation, algorithmic bias, privacy, intellectual property, and governance. Through critical engagement with peer contributions, I moved beyond broad ethical principles to consider practical mechanisms such as bias audits, transparency requirements, regulatory frameworks, and accountability measures. This enabled me to develop a balanced, evidence-based perspective on responsible AI deployment.
 
-
 ### Forum Posts
 
 ![Forum Discussion Evidence ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/tree/main/collaboration)
@@ -81,23 +67,18 @@ I evaluated the benefits and risks of generative AI, focusing on misinformation,
 
 ## 3. Reflective Commentary
 
-### Knowledge Developed
+### Knowledge. 
+I progressed from foundational agent concepts to First-Order Logic, then to symbolic, reactive, deliberative and hybrid architectures such as the 3T Architecture, gaining insight into how architectural choices shape behaviour. ACLs, KQML, KIF and ontologies showed how agents exchange knowledge; NLP units (Word2Vec, syntactic analysis, parse trees) and later neural networks and deep learning connected these concepts to Industry 4.0 and FinTech applications.
 
-This module developed my understanding of intelligent agents from foundational concepts to advanced AI applications. I began by exploring autonomy, perception, decision-making, and multi-agent systems before progressing to First-Order Logic (FOL) as a formal method for knowledge representation and reasoning. I then examined a range of agent architectures, including symbolic, reactive, deliberative, and hybrid approaches such as the 3T Architecture, gaining insight into how architectural choices influence agent behaviour and performance.
+### Skills. 
+Discussions strengthened my critical evaluation of architectures and communication approaches; practicals developed technical skills in FOL, KQML dialogues, NLP analysis and parse trees. The group project improved my ability to assess LLM-powered research agents, including hallucinations, bias and coordination.
 
-My understanding expanded further through studying Agent Communication Languages (ACLs), KQML, KIF, and ontologies, which demonstrated how agents exchange knowledge and coordinate actions. Later units introduced Natural Language Processing (NLP), including Word2Vec, syntactic analysis, and constituency-based parse trees, before progressing to adaptive algorithms, neural networks, and deep learning. The final units connected these concepts to practical applications in Industry 4.0, smart manufacturing, and FinTech, showing how intelligent agents operate in real-world environments.
+### Understanding 
+My key insight is that effective systems depend on appropriate design choices rather than added complexity; more agents and layers bring coordination costs and latency. I also deepened my appreciation of the explainability–capability trade-off: FOL offers transparent reasoning, deep learning offers flexibility at the cost of interpretability.
 
-### Skills Developed
+Reaching this was uncomfortable. Midway through, I felt genuine frustration when my system produced confident but wrong recommendations and I could not tell which agent was responsible. That frustration was productive — it forced me to stop adding capability and start adding observability, which is why the final design centres on a shared, inspectable state. I also noticed a less flattering emotion: relief when relevance scores "looked right" on a small test set. On reflection that relief was a warning sign, not a success — it was confirmation bias, the same mindset that lets developers ship biased ranking logic unchallenged. Naming it changed how I test: I now deliberately look for outputs that look correct but may be systematically skewed (Case Study 1). Floridi and Cowls' (2019) five-principle framework gave me vocabulary to say precisely which principle a design choice serves or violates.
 
-Throughout the module, I strengthened my critical thinking, research, and analytical skills. Discussion activities required me to evaluate different agent architectures, communication approaches, and learning techniques, considering both benefits and limitations. Practical exercises developed my technical skills in constructing FOL expressions, designing KQML agent dialogues, analysing NLP models, and creating constituency-based parse trees.
-
-The group project enhanced my ability to investigate complex AI systems by assessing the challenges of LLM-powered research agents, including hallucinations, bias, context limitations, and multi-agent coordination. These activities improved my ability to communicate technical concepts, evaluate evidence, and apply theoretical knowledge to practical scenarios.
-
-### Understanding Developed
-
-The most significant insight I gained is that effective intelligent systems depend on appropriate design choices rather than increasing complexity. Adding more agents, layers, or communication mechanisms can improve functionality, but may also introduce coordination challenges, latency, and computational overhead. I also developed a deeper appreciation of the trade-off between explainability and capability. While logical approaches such as FOL provide transparent reasoning, data-driven techniques such as deep learning offer greater flexibility but often at the cost of interpretability.
-
-Equally important was recognising the ethical responsibilities associated with intelligent systems. Issues such as bias, fairness, privacy, transparency, and accountability emerged as essential considerations throughout the module, reinforcing that technical performance alone is insufficient for responsible AI deployment.
+Changed actions. Three changes to my practice, the first already applied at work: design for observability before adding agents; default to multi-criteria, user-adjustable ranking rather than a single hidden heuristic; and treat "it looks right" as a hypothesis to falsify, writing adversarial tests targeting systematic skew.
 
 ## 4. Critical Evaluation of Final Project
 
@@ -117,31 +98,48 @@ The paper-ranking mechanism relied on predefined heuristics rather than machine 
 
 Scalability challenges were also identified when processing larger datasets. 
 
-
 ## 5. Reflective case studies
 
-### Bias in Autonomous Decision-Making
-Context: While developing the paper-ranking agent, I designed a scoring mechanism that prioritised relevance and evidence quality.
+### Case Study 1 Bias in Autonomous Decision-Making
+What? 
 
-Reflection: During testing, I noticed that the system consistently favoured highly cited and recent papers. Although this improved perceived quality, it sometimes overlooked niche studies that offered important alternative perspectives. This demonstrated how developer-defined rules can introduce bias into autonomous decision-making. The experience showed me that bias is not limited to datasets; it can also arise from algorithm design and weighting decisions. Future improvements could include multiple ranking criteria and user-adjustable preferences to reduce the impact of embedded assumptions.
+My paper-ranking agent scored relevance and evidence quality via recency and citation count. Testing showed it consistently favoured highly cited and recent papers, sometimes overlooking niche studies offering important alternative perspectives.
 
-Key Learning: Developer choices significantly influence agent behaviour and must be critically evaluated for fairness.
+So what? 
 
-### Explainable Decisions in Agents (XAI)
-Context: Justication for why certain papers were recommended by the research agent.
+Developer-defined rules can introduce bias into autonomous decision-making; bias is not limited to datasets but arises from algorithm design and weighting. This maps onto Barocas, Hardt and Narayanan's (2019) distinction between allocative and representational harm: recency weighting produced representational harm by under-representing older or non-mainstream scholarship, even though no individual decision looked wrong. My initial relief that rankings "looked sensible" was itself confirmation bias, and recognising that feeling prompted me to interrogate the weights. A peer's Discussion 1 comment — that autonomy is a relationship reinforced that my weighting choices were an exercise of my judgement delegated to the agent, and therefore my responsibility.
 
-Reflection: I implemented relevance scores, quality ratings, and rationales for each recommendation. This transparency made it easier to verify outputs and identify weaknesses in the ranking process. When unexpected results occurred, the explanations helped trace the cause and improve the system. The process reinforced the importance of explainability in increasing trust and supporting effective debugging.
+Now what? 
 
-Key Learning: Explainability improves both user confidence and developer understanding of agent behaviour.
+I now treat ranking weights as ethical design decisions requiring justification. Future improvements include multiple criteria and user-adjustable preferences. In practice for example, a workplace document recommender — I would default to transparent, adjustable weighting and document each weight's rationale so bias is visible and contestable.
 
-### Responsible Deployment and Emergent Behaviour
-Context: Multiple agents shared information through a blackboard architecture.
+### Case Study 2 Explainable Decisions in Agents (XAI)
+What? 
 
-Reflection: During testing, I observed that inaccurate outputs from one agent could affect the performance of subsequent agents. This highlighted the risk of unintended emergent behaviours within multi-agent systems. To address this, I introduced validation checks and state monitoring throughout the workflow. These mechanisms improved reliability and reduced the likelihood of misleading recommendations.
+I implemented relevance scores, quality ratings and rationales for each recommendation, so every ranking carried an explanation of why a paper was surfaced.
 
-Key Learning: Responsible deployment requires monitoring interactions between agents, not just individual agent performance.
+So what? 
 
-## 8. References
+Transparency made outputs verifiable and helped trace unexpected results. Read through Floridi and Cowls (2019), my rationales satisfied explicability but not fully transparency or accountability: they said what the agent did, not what it could not see (e.g. papers it failed to retrieve). An explanation of a decision is not an explanation of the system's limitations "explainable" is not binary.
+
+Now what? 
+
+I now design explanations to disclose limitations as well as decisions, surfacing retrieval gaps alongside rankings, and would define an explicit per-agent rationale schema so this is enforced systematically.
+
+### Case Study 3 Responsible Deployment and Emergent Behaviour
+What? 
+
+With agents sharing a Blackboard, testing showed inaccurate output from one agent could degrade subsequent agents, producing misleading final recommendations even when each agent behaved as specified.
+
+So what? 
+
+This is unintended emergent behaviour: the system failing in a way no single agent would — precisely the failure mode Russell (2019) warns of when control is not designed in. My initial feeling was helplessness, because the bug was in no single agent and there was no obvious place to fix it; that pushed me toward a systems-level view of responsibility.
+
+Now what? 
+
+I introduced validation checks and state monitoring throughout the workflow, improving reliability. Responsible deployment requires monitoring inter-agent interactions, not just individual performance; I now treat these as non-negotiable requirements built in from design, not retrofitted after failure.
+
+## 6. References
 
 - Barocas, S., Hardt, M. and Narayanan, A. (2019) *Fairness and Machine Learning*. Available at: https://fairmlbook.org.
 - Floridi, L. and Cowls, J. (2019) 'A unified framework of five principles for AI in society', *Harvard Data Science Review*, 1(1).
