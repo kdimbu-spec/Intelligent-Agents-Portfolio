@@ -65,13 +65,15 @@ The architecture. I adopted a blackboard design pattern, which is standard in mu
 
 ## 2. Data Analysis and Forum Contribution
 
-### Discussion 1: Drivers of Agent-Based Systems
+My engagement with online discussions developed my ability to move beyond describing intelligent agent concepts towards critically evaluating their assumptions, limitations, and practical implications. Analysing the drivers of agent-based systems helped me recognise that autonomy and specialisation do not automatically guarantee efficiency; their value depends on task complexity, coordination, and appropriate human oversight.
 
-This discussion demonstrates my ability to critically evaluate emerging technologies and their organisational implications. I analysed the key factors driving the adoption of agent-based systems, including ubiquitous computing, network interconnectedness, advances in artificial intelligence, and the increasing delegation of tasks to autonomous software agents.
+Comparing KQML and FIPA-ACL challenged my initial understanding of agent communication by highlighting that standardised protocols cannot independently ensure semantic interoperability or shared understanding. This reinforced the importance of evaluating both technical capabilities and implementation constraints.
 
-Through engagement with peer feedback, I expanded my analysis by considering how organisational complexity has accelerated the need for multi-agent systems. I critically reflected on how specialised agents can distribute computational and decision-making responsibilities in a manner similar to human teams. The discussion also deepened my understanding of rational agency, highlighting that effective agent behaviour depends on achieving goals under uncertainty rather than relying solely on sophisticated AI techniques.
+Discussions on generative AI ethics broadened my perspective on responsible innovation, demonstrating that accuracy and functionality must be considered alongside fairness, transparency, privacy, and accountability. Peer feedback encouraged me to reconsider assumptions, evaluate alternative arguments, and develop more balanced conclusions.
 
-Furthermore, I evaluated the ethical and governance challenges associated with autonomous systems, particularly issues of trust, explainability, accountability, and human oversight in regulated sectors. This discussion strengthened my ability to synthesise multiple perspectives, engage constructively with peers, and develop balanced, evidence-based conclusions about the opportunities and risks associated with AI technologies.
+These insights influenced my Academic Research Agent project, particularly the design of specialised agents, coordination mechanisms, and output evaluation. Critically, I recognised that multi-agent architectures introduce additional complexity, latency, and potential inconsistencies. Therefore, architectural decisions should be justified by demonstrable benefits rather than complexity alone.
+
+Overall, I learned to approach intelligent agent development more critically, using evidence to justify decisions, acknowledging limitations, and evaluating systems against their intended objectives. This reflective approach strengthened my ability to translate theoretical knowledge into practical, reliable, and responsible AI solutions.
 
 
 ### Forum Posts
