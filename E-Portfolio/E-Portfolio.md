@@ -46,7 +46,7 @@ I created constituency parse trees and participated in Collaborative Discussion 
 
 | File | Purpose | Language | Link |
 |------|---------|----------|------|
-| `individual_implementation_project (2).py` | implementation of an academic research  multi-agent that seaches and retrieves, processes  | Python | https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/evidence/individual_implementation_project%20(2).py  |
+| `individual_implementation_project (2).py` | implementation of an academic research  multi-agent that seaches and retrieves, processes  | Python | https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/E-Portfolio/Individual_Implementation_Project.ipynb  |
 
 ## 2. Data Analysis and Forum Contribution 
 
