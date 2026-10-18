@@ -73,7 +73,7 @@ I progressed from foundational agent concepts to First-Order Logic, then to symb
 Discussions strengthened my critical evaluation of architectures and communication approaches; practicals developed technical skills in FOL, KQML dialogues, NLP analysis and parse trees. The group project improved my ability to assess LLM-powered research agents, including hallucinations, bias and coordination.
 
 ### Understanding 
-My key insight is that effective systems depend on appropriate design choices rather than added complexity; more agents and layers bring coordination costs and latency. I also deepened my appreciation of the explainability–capability trade-off: FOL offers transparent reasoning, deep learning offers flexibility at the cost of interpretability.
+My key insight is that effective systems depend on appropriate design choices rather than added complexity; more agents and layers bring coordination costs and latency. I also deepened my appreciation of the explainability capability trade-off: FOL offers transparent reasoning, deep learning offers flexibility at the cost of interpretability.
 
 Reaching this was uncomfortable. Midway through, I felt genuine frustration when my system produced confident but wrong recommendations and I could not tell which agent was responsible. That frustration was productive — it forced me to stop adding capability and start adding observability, which is why the final design centres on a shared, inspectable state. I also noticed a less flattering emotion: relief when relevance scores "looked right" on a small test set. On reflection that relief was a warning sign, not a success — it was confirmation bias, the same mindset that lets developers ship biased ranking logic unchallenged. Naming it changed how I test: I now deliberately look for outputs that look correct but may be systematically skewed (Case Study 1). Floridi and Cowls' (2019) five-principle framework gave me vocabulary to say precisely which principle a design choice serves or violates.
 
@@ -132,7 +132,7 @@ With agents sharing a Blackboard, testing showed inaccurate output from one agen
 
 So what? 
 
-This is unintended emergent behaviour: the system failing in a way no single agent would — precisely the failure mode Russell (2019) warns of when control is not designed in. My initial feeling was helplessness, because the bug was in no single agent and there was no obvious place to fix it; that pushed me toward a systems-level view of responsibility.
+This is unintended emergent behaviour: the system failing in a way no single agent would precisely the failure mode Russell (2019) warns of when control is not designed in. My initial feeling was helplessness, because the bug was in no single agent and there was no obvious place to fix it; that pushed me toward a systems-level view of responsibility.
 
 Now what? 
 
