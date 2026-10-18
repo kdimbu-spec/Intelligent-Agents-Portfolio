@@ -33,7 +33,9 @@ I created constituency parse trees and participated in Collaborative Discussion 
 | Week | Exercise | Output | Link |
 |------|----------|--------|------|
 | [1]  | KQML_KIF_Agent_Communication.ipynb | Creating a Warehouse Agent based KQML,  Alice is an agent designed to procure stock and Bob is an agent that controls the stock levels for a warehouse. This dialogue should see Alice asking Bob about the available stock of 50 inch televisions, and also querying the number of HDMI slots the televisions have. | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/KQML_KIF_Agent_Communication.ipynb) |
-| [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
+| [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree "The government raised interest rates."| [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
+| [3]  | Parse_Trees.ipynb | Create a constituency-based parse tree for "The internet gives everyone a voice." | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Tree_Diagram.ipynb) |
+| [2]  | Deep_learning_in_Action | Deep Learning in Autonomous Vehicles| [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/DeepLearningResearch.md) |
 
 ### Project Agent Design 
 [final-project/design.md ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/final-project/design.md) 
