@@ -11,13 +11,10 @@ This e-portfolio documents my learning, development, and applied practice throug
 
 **Structure:**
 - [1. Module Exercises & Outputs](#1-module-exercises--outputs)
-- [2. Coding Scripts & Agent Implementations](#2-coding-scripts--agent-implementations)
-- [3. System Designs](#3-system-designs)
-- [4. Data Analysis](#4-data-analysis-forum-contribution)
-- [5. Forum Contributions & Collaboration Evidence](#5-forum-contributions--collaboration-evidence)
-- [6. Three Formative Reflective Case Studies](#6-three-formative-reflective-case-studies)
-- [7. Critical Evaluation of Final Project](#7-critical-evaluation-of-final-project)
-- [8. References](#8-references)
+- [2. Data Analysis and Forum Contribution](#2-data-analysis-forum-contribution)
+- [3. Reflective Case Studies](#3-three-formative-reflective-case-studies)
+- [4. Critical Evaluation of Final Project](#4-critical-evaluation-of-final-project)
+- [5. References](#5-references)
 
 
 ## 1. Module Exercises & Outputs
@@ -51,18 +48,22 @@ Evidence
 | [2]  | Parse_Trees.ipynb | Create a constituency-based parse tree | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Parse_Trees.ipynb) |
 
 
-## 2. Coding Scripts & Agent Implementations
+## Coding Scripts & Agent Implementations
 
 | File | Purpose | Language | Link |
 |------|---------|----------|------|
 | `individual_implementation_project (2).py` | implementation of an academic research  multi-agent that seaches and retrieves, processes  | Python | https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/evidence/individual_implementation_project%20(2).py  |
 
 
+
+### Final Project Design 
+[final-project/design.md ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/final-project/design.md) 
+
 **Key implementation notes:**
 The architecture. I adopted a blackboard design pattern, which is standard in multi-agent systems research — agents communicate indirectly through a shared state object rather than calling each other directly. That shared state is a Pydantic model called ResearchState, and it holds the research question, the plan, retrieved papers, processed papers, errors, and a sufficiency flag
 
 
-## 3. System Designs
+## 2. Data Analysis and Forum Contribution
 
 ### Discussion 1: Drivers of Agent-Based Systems
 
@@ -73,55 +74,13 @@ Through engagement with peer feedback, I expanded my analysis by considering how
 Furthermore, I evaluated the ethical and governance challenges associated with autonomous systems, particularly issues of trust, explainability, accountability, and human oversight in regulated sectors. This discussion strengthened my ability to synthesise multiple perspectives, engage constructively with peers, and develop balanced, evidence-based conclusions about the opportunities and risks associated with AI technologies.
 
 
-
-
-
-
-### Final Project Design 
-[final-project/design.md ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/final-project/design.md)
-
-
-## 4. Data Analysis forum contribution
-
-[Brief description of data gathered during testing — e.g. performance metrics, behaviour logs, comparison of architectures.]
-
-| Metric | Design (Week 7) | Implementation (Week 11) |
-|--------|-----------------|--------------------------|
-| [Metric 1] | [Value] | [Value] |
-| [Metric 2] | [Value] | [Value] |
-
-[2–3 sentences interpreting these results — what they reveal about the agent's behaviour, limitations, or emergent properties.]
-
----
-
-## 5. Forum Contributions & Collaboration Evidence
-
 ### Forum Posts
 
 ![Forum Discussion Evidence ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/tree/main/collaboration)
 
 
-![Forum Contribution 2](./images/forum_post_2.png)
-*[Caption: Response to teammate on [topic] — [date]]*
+## 6. Reflective Case Studies
 
-### Team Contribution Evidence
-
-![Commit History](./images/commits.png)
-*[Caption: GitHub commit history showing my contributions]*
-
-![Task Board](./images/task_board.png)
-*[Caption: Task board showing completed tasks and ownership]*
-
-**My role in the team:** [Describe your role — e.g. architecture design, coding, testing, documentation, coordination.]
-**Key contributions:** [Bullet list of 2–4 concrete contributions.]
-
----
-
-## 6. Three Formative Reflective Case Studies
-
-Each case study follows Rolfe et al.'s (2001) WHAT / SO WHAT / NOW WHAT framework and is grounded in my own module experience.
-
----
 
 ### Case Study 1: Bias in Autonomous Decision-Making
 
