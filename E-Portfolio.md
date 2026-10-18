@@ -107,11 +107,11 @@ My paper-ranking agent scored relevance and evidence quality via recency and cit
 
 So what? 
 
-Developer-defined rules can introduce bias into autonomous decision-making; bias is not limited to datasets but arises from algorithm design and weighting. This maps onto Barocas, Hardt and Narayanan's (2019) distinction between allocative and representational harm: recency weighting produced representational harm by under-representing older or non-mainstream scholarship, even though no individual decision looked wrong. My initial relief that rankings "looked sensible" was itself confirmation bias, and recognising that feeling prompted me to interrogate the weights. A peer's Discussion 1 comment — that autonomy is a relationship reinforced that my weighting choices were an exercise of my judgement delegated to the agent, and therefore my responsibility.
+Developer-defined rules can introduce bias into autonomous decision-making; bias is not limited to datasets but arises from algorithm design and weighting. This maps onto Barocas, Hardt and Narayanan's (2019) distinction between allocative and representational harm: recency weighting produced representational harm by under-representing older or non-mainstream scholarship, even though no individual decision looked wrong. My initial relief that rankings "looked sensible" was itself confirmation bias, and recognising that feeling prompted me to interrogate the weights. A peer's Discussion 1 comment that autonomy is a relationship reinforced that my weighting choices were an exercise of my judgement delegated to the agent, and therefore my responsibility.
 
 Now what? 
 
-I now treat ranking weights as ethical design decisions requiring justification. Future improvements include multiple criteria and user-adjustable preferences. In practice for example, a workplace document recommender — I would default to transparent, adjustable weighting and document each weight's rationale so bias is visible and contestable.
+I now treat ranking weights as ethical design decisions requiring justification. Future improvements include multiple criteria and user-adjustable preferences. In practice for example, a workplace document recommender I would default to transparent, adjustable weighting and document each weight's rationale so bias is visible and contestable.
 
 ### Case Study 2 Explainable Decisions in Agents (XAI)
 What? 
