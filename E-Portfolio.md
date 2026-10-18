@@ -37,6 +37,8 @@ I created constituency parse trees and participated in Collaborative Discussion 
 | [3]  | Parse_Trees.ipynb | Create a constituency-based parse tree for "The internet gives everyone a voice." | [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/Tree_Diagram.ipynb) |
 | [2]  | Deep_learning_in_Action | Deep Learning in Autonomous Vehicles| [Link](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/DeepLearningResearch.md) |
 
+[screenshots:](evidence)
+
 ### Project Agent Design 
 [final-project/design.md ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/blob/main/final-project/design.md) 
 
