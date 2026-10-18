@@ -65,15 +65,17 @@ The architecture. I adopted a blackboard design pattern, which is standard in mu
 
 ## 2. Data Analysis and Forum Contribution
 
-My engagement with online discussions developed my ability to move beyond describing intelligent agent concepts towards critically evaluating their assumptions, limitations, and practical implications. Analysing the drivers of agent-based systems helped me recognise that autonomy and specialisation do not automatically guarantee efficiency; their value depends on task complexity, coordination, and appropriate human oversight.
+### Discussion 1 – Drivers of Agent-Based Systems
+I analysed the organisational and technological factors driving the adoption of agent-based systems, including ubiquitous computing, network interconnectedness, advances in AI, and increasing task delegation. Through engagement with peer feedback, I broadened my analysis to consider organisational complexity as a key driver of multi-agent systems and critically evaluated the relationship between rational agency, autonomy, and decision-making under uncertainty. I also examined governance challenges, including trust, explainability, accountability, and human oversight, demonstrating an ability to assess both technical and ethical considerations.
 
-Comparing KQML and FIPA-ACL challenged my initial understanding of agent communication by highlighting that standardised protocols cannot independently ensure semantic interoperability or shared understanding. This reinforced the importance of evaluating both technical capabilities and implementation constraints.
+### Discussion 2 – Agent Communication Languages
+I critically compared Agent Communication Languages (KQML and FIPA-ACL) with traditional method invocation, evaluating trade-offs between interoperability, autonomy, semantic understanding, and system efficiency. Peer discussions encouraged deeper analysis of semantic interoperability and the challenge of verifying meaning between autonomous agents. This led me to conclude that unverifiable semantics represents a fundamental limitation of agent communication languages rather than merely an implementation complexity, while also highlighting the importance of ontology alignment and shared understanding.
 
-Discussions on generative AI ethics broadened my perspective on responsible innovation, demonstrating that accuracy and functionality must be considered alongside fairness, transparency, privacy, and accountability. Peer feedback encouraged me to reconsider assumptions, evaluate alternative arguments, and develop more balanced conclusions.
+### Discussion 3 – Deep Learning and Generative AI Ethics
+I evaluated the benefits and risks of generative AI, focusing on misinformation, algorithmic bias, privacy, intellectual property, and governance. Through critical engagement with peer contributions, I moved beyond broad ethical principles to consider practical mechanisms such as bias audits, transparency requirements, regulatory frameworks, and accountability measures. This enabled me to develop a balanced, evidence-based perspective on responsible AI deployment.
 
-These insights influenced my Academic Research Agent project, particularly the design of specialised agents, coordination mechanisms, and output evaluation. Critically, I recognised that multi-agent architectures introduce additional complexity, latency, and potential inconsistencies. Therefore, architectural decisions should be justified by demonstrable benefits rather than complexity alone.
-
-Overall, I learned to approach intelligent agent development more critically, using evidence to justify decisions, acknowledging limitations, and evaluating systems against their intended objectives. This reflective approach strengthened my ability to translate theoretical knowledge into practical, reliable, and responsible AI solutions.
+### Overall Reflection
+Across all three discussions, I demonstrated the ability to analyse complex concepts, evaluate evidence from multiple sources, challenge assumptions, and refine my understanding through peer engagement. These discussions strengthened my capacity to develop balanced, well-reasoned conclusions and apply critical thinking to both the technical and societal implications of Artificial Intelligence and Multi-Agent Systems.
 
 
 ### Forum Posts
