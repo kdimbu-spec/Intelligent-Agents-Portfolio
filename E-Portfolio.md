@@ -12,7 +12,7 @@ This e-portfolio documents my learning, development, and applied practice throug
 **Structure:**
 - [1. Module Exercises & Outputs](#1-module-exercises--outputs)
 - [2. Data Analysis and Forum Contribution](#2-data-analysis-forum-contribution)
-- [3. Reflective Case Studies](#3-three-formative-reflective-case-studies)
+- [3. Reflective Commentary on Intelligent Agents](#3-reflective-Commentary)
 - [4. Critical Evaluation of Final Project](#4-critical-evaluation-of-final-project)
 - [5. References](#5-references)
 
@@ -83,7 +83,7 @@ Across all three discussions, I demonstrated the ability to analyse complex conc
 ![Forum Discussion Evidence ](https://github.com/kdimbu-spec/Intelligent-Agents-Portfolio/tree/main/collaboration)
 
 
-## 3. Reflective Commentary on Intelligent Agents
+## 3. Reflective Commentary
 
 ## Knowledge Developed
 
