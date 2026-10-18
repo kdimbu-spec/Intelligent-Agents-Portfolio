@@ -105,6 +105,24 @@ Equally important was recognising the ethical responsibilities associated with i
 
 ## 4. Critical Evaluation of Final Project
 
+Designed a multi-agent research assistant using a modular architecture, allowing specialised agents to perform planning, retrieval, analysis, and ranking tasks independently. 
+Adopted a blackboard design pattern with shared state management, which improved coordination between agents and provided a clear workflow.
+
+A key strength of the design phase was its focus on scalability, maintainability, and explainability, ensuring that system decisions could be traced and justified.
+During implementation, the architecture successfully enabled agents to collaborate, validating the original design decisions and demonstrating practical application of intelligent agent principles.
+
+The use of Pydantic state models and structured workflows improved reliability, reduced errors, and supported easier debugging and testing.
+
+The system enhanced transparency by providing relevance scores, evidence-quality ratings, and rationales for paper selection.
+
+However, the solution remained dependent on the quality of retrieved literature, meaning weak input data could affect output quality.
+
+The paper-ranking mechanism relied on predefined heuristics rather than machine learning models, limiting adaptability across domains.
+
+Scalability challenges were also identified when processing larger datasets. 
+
+Overall, the project successfully met its objectives while highlighting the importance of iterative development, modular design, and balancing theoretical architecture with practical implementation constraints.
+
 
 ## 8. References
 
