@@ -22,7 +22,29 @@ This e-portfolio documents my learning, development, and applied practice throug
 
 ## 1. Module Exercises & Outputs
 
-Summarise each exercise and link to its file or notebook.
+## Weeks 1-4: Foundations of Intelligent Agents
+
+During the first four weeks, I established my Intelligent Agents e-Portfolio and shared it with the university for assessment. I participated in **Collaborative Discussion 1: Agent-Based Systems**, exploring the characteristics of intelligent agents, including autonomy, reactivity, proactiveness, and social ability. I researched Large Language Model (LLM)-powered agent architectures, focusing on task decomposition, planning strategies, and their application in academic research systems.
+
+I contributed to the Module Wiki by sharing key concepts and supporting resources related to intelligent agents and maintained regular portfolio updates documenting discussions, research findings, and reflections. These activities provided a strong theoretical foundation that later informed the design of my multi-agent research assistant project.
+
+## Weeks 5-7: Agent Communication and Collaboration
+
+The focus of this period was **Agent Communication Languages**. Through Collaborative Discussion 2, I explored the role of communication protocols in multi-agent systems, particularly **KQML (Knowledge Query and Manipulation Language)** and **KIF (Knowledge Interchange Format)**.
+
+A key practical exercise involved creating an agent dialogue between **Alice**, a procurement agent, and **Bob**, a warehouse stock management agent. The dialogue enabled Alice to query the stock availability of 50-inch televisions and request product specifications, including HDMI port information. This exercise demonstrated how structured communication enables agents to exchange knowledge and coordinate effectively.
+
+I also engaged with peer discussions and produced a summary post that evaluated the advantages and limitations of agent communication approaches in intelligent systems.
+
+## Weeks 8-11: Natural Language Processing and Deep Learning
+
+During Weeks 8-11, I completed practical activities focused on Natural Language Processing (NLP) and Deep Learning. I created constituency parse trees for several sentences, developing an understanding of syntactic structure and language analysis within intelligent systems.
+
+I participated in **Collaborative Discussion 3: Deep Learning**, investigating the impact of advanced neural networks on intelligent agents. As part of the "Deep Learning in Action" activity, I researched deep learning applications for knowledge discovery and information retrieval, examining both technical functionality and societal implications.
+
+I also explored ethical issues such as AI bias, explainability, transparency, and responsible deployment. These activities strengthened my understanding of contemporary AI challenges and informed the development of my final project: a multi-agent research assistant incorporating planning, retrieval, processing, and synthesis agents within a Blackboard-based architecture.
+
+Evidence 
 
 | Week | Exercise | Output | Link |
 |------|----------|--------|------|
