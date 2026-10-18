@@ -20,12 +20,12 @@ This e-portfolio documents my learning, development, and applied practice throug
 
 ## 1. Module Exercises & Outputs
 
-## Weeks 1-4: Foundations of Intelligent Agents
+### Weeks 1-4: Foundations of Intelligent Agents
 During the first four weeks, I established my Intelligent Agents e-Portfolio and shared it with the university for assessment. I participated in Collaborative Discussion 1: Agent-Based Systems , exploring the characteristics of intelligent agents, including autonomy, reactivity, proactiveness, and social ability. I researched Large Language Model (LLM)-powered agent architectures, focusing on task decomposition, planning strategies, and their application in academic research systems.
 
 This also was the weeks we started our group C design collaboration on academic research agent. 
 
-## Weeks 5-7: Agent Communication and Collaboration
+### Weeks 5-7: Agent Communication and Collaboration
 
 The focus of this period was Agent Communication Languages. Through Collaborative Discussion 2, I explored the role of communication protocols in multi-agent systems, particularly KQML (Knowledge Query and Manipulation Language) and KIF (Knowledge Interchange Format).
 
@@ -33,7 +33,7 @@ A key practical exercise involved creating an agent dialogue between Alice, a pr
 
 I also engaged with peer discussions and produced a summary post that evaluated the advantages and limitations of agent communication approaches in intelligent systems.
 
-## Weeks 8-11: Natural Language Processing and Deep Learning
+### Weeks 8-11: Natural Language Processing and Deep Learning
 
 During Weeks 8-11, I completed practical activities focused on Natural Language Processing (NLP) and Deep Learning. I created constituency parse trees for several sentences, developing an understanding of syntactic structure and language analysis within intelligent systems.
 
